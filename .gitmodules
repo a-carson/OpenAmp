@@ -1,0 +1,3 @@
+[submodule "Open_Amp/neural-amp-modeler"]
+	path = Open_Amp/neural-amp-modeler
+	url = git@github.com:sdatkinson/neural-amp-modeler.git
